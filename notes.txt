@@ -1,4 +1,14 @@
 1. Copy paste in your index.html
 https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template
+
 2. In GitHub - your repo page  - Settings - GitHub Pages - Source - master - Save
 Get the link and add it in Readme.md for LIVE PREVIEW feature.
+
+3. Set app name (just get rid of Hello world).
+
+4. Let's set a favicon. You can use any image, edit it with GIMP. Or you can
+draw a favicon with: https://www.favicon.cc/ (I will do this.)
+Just draw with your mouse and Download Favicon. You will have a favicon.ico file.
+
+Create a folder "images", add your favicon here. Then, in <head> add:
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
