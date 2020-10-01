@@ -22,3 +22,10 @@ Create a folder "images", add your favicon here. Then, in <head> add:
 
   I set the body background with red and my container with white. I use this
   when I want to see something is working. Then I beautify the things.
+
+7. Yes, let's set some nice colors. You can experiment with color palletes
+from coolors.co. Just press Spacebar until you see something great. Then copy
+the link:
+  https://coolors.co/f92a82-ed7b84-f5dbcb-d6d5b3-7eb77f
+I will add this in my css as comment. #f92a82 etc will be displayed with
+colored background by my editor. So, I can see the colors in my code.
