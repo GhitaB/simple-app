@@ -12,3 +12,6 @@ Just draw with your mouse and Download Favicon. You will have a favicon.ico file
 
 Create a folder "images", add your favicon here. Then, in <head> add:
   <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+
+5. Now, we need a layout. Let's see Bootstrap's docs.
+  https://getbootstrap.com/docs/4.5/layout/overview/#all-in-one
