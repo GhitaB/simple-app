@@ -7,10 +7,14 @@
  * #7eb77f
  * */
 body {
-  background: red;
+  background: #d6d5b3;
 }
 
 div#simple-app-container {
-  background: white;
+  background: #f5dbcb;
   min-height: 500px;
+}
+
+h1 {
+  color: #f92a82;
 }
