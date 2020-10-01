@@ -1,0 +1,2 @@
+1. Copy paste in your index.html
+https://getbootstrap.com/docs/4.5/getting-started/introduction/#starter-template
