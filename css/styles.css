@@ -5,7 +5,21 @@
  * #f5dbcb
  * #d6d5b3
  * #7eb77f
+ *
+ * Fun with proportions:
+ * (10 * 1.618, 20 * 1.618 etc. See "golden ratio".)
+ * 16
+ * 32
+ * 48
+ * 64
+ * 80
+ * 97
+ * 113
+ * 129
+ * 145
+ * 161
  * */
+
 body {
   background: #d6d5b3;
 }
@@ -13,8 +27,11 @@ body {
 div#simple-app-container {
   background: #f5dbcb;
   min-height: 500px;
+  margin-top: 32px;
+  padding:  16px;
 }
 
 h1 {
   color: #f92a82;
+  font-size: 32px;
 }
