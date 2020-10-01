@@ -32,3 +32,5 @@ colored background by my editor. So, I can see the colors in my code.
 
 8. Now, use the colors. :) Experiment. Make sure there is contrast between text
 and background.
+
+9. Choose from Google Fonts. https://fonts.google.com/
