@@ -15,3 +15,10 @@ Create a folder "images", add your favicon here. Then, in <head> add:
 
 5. Now, we need a layout. Let's see Bootstrap's docs.
   https://getbootstrap.com/docs/4.5/layout/overview/#all-in-one
+
+6. Add custom css: a new folder "css" with "styles.css" in it.
+   Add this under the css file from bootstrap in your html:
+    <link rel="stylesheet" href="css/styles.css">
+
+  I set the body background with red and my container with white. I use this
+  when I want to see something is working. Then I beautify the things.

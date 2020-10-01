@@ -1,0 +1,8 @@
+body {
+  background: red;
+}
+
+div#simple-app-container {
+  background: white;
+  min-height: 500px;
+}
