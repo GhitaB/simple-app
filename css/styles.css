@@ -29,9 +29,17 @@ div#simple-app-container {
   min-height: 500px;
   margin-top: 32px;
   padding:  16px;
+  border-radius: 16px;
 }
 
 h1 {
   color: #f92a82;
   font-size: 32px;
+  font-family: 'Sansita Swashed', cursive;
+  font-weight: 900;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
 }
