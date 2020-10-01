@@ -34,3 +34,6 @@ colored background by my editor. So, I can see the colors in my code.
 and background.
 
 9. Choose from Google Fonts. https://fonts.google.com/
+
+10. Back to Layout. See grid system: https://getbootstrap.com/docs/4.5/layout/grid/
+  container -> row -> col
